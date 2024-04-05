@@ -1,0 +1,1 @@
+console.input("Hello World!");
