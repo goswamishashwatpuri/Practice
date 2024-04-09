@@ -51,4 +51,8 @@ console.log(multiLine);
 
 // string objects
 let strObj = new String('this is string obj')
-console.log(strObj[0]);
+
+// object
+console.log(typeof strObj);
+// string
+console.log(typeof myDesc);
