@@ -53,3 +53,4 @@ let sliceArr = tempArr.slice(1,3)
 // IMPORTANT: Splice changes ORIGINAL ARRAY as well. Spliced elements are removed from original array.
 let spliceArr = tempArr.splice(1,3)
 console.log(sliceArr, spliceArr, tempArr)
+
